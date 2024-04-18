@@ -1,0 +1,16 @@
+header{text-align: center;}
+img{float: right;width: 50%;}
+body{background-color: black; color:white; font-size: large}
+.blau{color: rgb(223, 216, 255);}
+.t{font-family: fantasy;}
+.r{color: red;;}
+footer{float: right; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.kep1{
+    width: 250px; float: right; 
+}
+.kep2{
+    width: 200px; float: right; height: auto;
+}
+.div1{
+    text-align: justify;
+}
